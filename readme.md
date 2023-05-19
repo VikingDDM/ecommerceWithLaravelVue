@@ -1,5 +1,5 @@
 # Building an E-commerce platform with Laravel and Vue
-This is a demo application showing how to build an e-commerce platform using Laravel and Vue. You can read about how it was created [on Pusher's blog](https://blog.pusher.com/author/neo).
+This is a demo application showing how to build an e-commerce platform using Laravel and Vue. 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -17,15 +17,12 @@ What things you need to install the software.
 ### Install
 Clone the git repository on your computer
 
-```$ git clone https://github.com/neoighodaro-articles/e-commerce-laravel-vue.git```
-
-
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
 
 After cloning the application, you need to install it's dependencies. 
 
 ```
-$ cd e-commerce-laravel-vue
+$ cd ecommerceLaravelVue
 $ composer install
 ```
 
